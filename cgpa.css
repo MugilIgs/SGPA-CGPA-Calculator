@@ -2,11 +2,14 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 95vh;
+  min-height: 100vh;
   background-color: #bbdefb;
   background-attachment: fixed;
   margin: 0;
   font-family: Arial, sans-serif;
+  padding: 0;
+  height: 100%;
+  overflow-x: hidden;
 }
 .main-content {
   display: flex;
