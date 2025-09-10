@@ -12,7 +12,7 @@ h1{
 }
 .btn
 {
-    width: 1300px;
+    width: auto;
     height: 182px;
     display: flex;
     justify-content: space-evenly;
