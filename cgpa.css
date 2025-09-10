@@ -1,8 +1,9 @@
 body{
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 95vh;
+  min-height: 95vh;
   background-color: #bbdefb;
   background-attachment: fixed;
   margin: 0;
