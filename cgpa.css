@@ -178,13 +178,14 @@ button{
   border-style: none;
   background-color: #023e8a;
    color: #ade8f4;
-  font-family: fantasy;
+  font-family: "Jersey 15", Arial, sans-serif;
   font-size: larger;
   font-weight: 50;
   cursor: pointer;
    -webkit-appearance: none; 
   -moz-appearance: none;    
   appearance: none;
+  text-transform: none;
 }
 
 button:hover{
@@ -212,4 +213,8 @@ button:hover{
     font-size: 28px;
     color: #ade8f4;
 }
+html {
+  -webkit-text-size-adjust: 100%; 
+}
+
 

@@ -120,3 +120,6 @@ color: #caf0f8;
     height: 16px;
 }
 }
+html {
+  -webkit-text-size-adjust: 100%; 
+}
