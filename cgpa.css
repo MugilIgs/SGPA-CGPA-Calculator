@@ -182,6 +182,9 @@ button{
   font-size: larger;
   font-weight: 50;
   cursor: pointer;
+   -webkit-appearance: none; 
+  -moz-appearance: none;    
+  appearance: none;
 }
 
 button:hover{
